@@ -1,0 +1,11 @@
+//
+// SPDX-FileCopyrightText: 2023 The AfterlifexOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+runtime_resource_overlay {
+    name: "NavigationBarNoHint",
+
+    theme: "NavigationBarNoHint",
+    product_specific: true,
+}
